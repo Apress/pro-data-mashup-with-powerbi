@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Pro Data Mashup for Power BI*](https://www.apress.com/978-1-4842-8578-7) by Adam Aspin (Apress, 2022).
+This repository accompanies [*Pro Data Mashup for Power BI*](https://www.link.springer.com/book/10.1007/978-1-4842-8578-7) by Adam Aspin (Apress, 2022).
 
 [comment]: #cover
 ![Cover image](9781484285770.jpg)
